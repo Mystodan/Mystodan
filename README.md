@@ -7,13 +7,31 @@
 
 Passionate about a sustainable future with technology, innovation, and problem-solving.<br>With a strong foundation in software development, digitalization and cybersecurity, I am always on the lookout for opportunities to apply my skills to real life projects. <br>My focus is on creating secure, scalable and efficient systems, optimizing code, and creating sustainable and innovative solutions to real problems.<br><br>
 
+  
 
 
-<div class="flex w-full flex-col items-center" align="center">
-  <img class="output" src="https://github-readme-stats.vercel.app/api?username=mystodan&hide_rank=true&amp&theme=tokyonight&amp&show_icons=true&amp&hide_border=false&amp&count_private=true" height=200 alt="github stats">
-  <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystodan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=false&amp;layout=compact"  height=200 alt="github top languages">
-  <img class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=mystodan&amp;theme=tokyonight&amp;hide_border=false" alt="github streak">
-</div>
+
+  <div  align="center">
+  <picture><img src="https://github-readme-stats.vercel.app/api?username=mystodan&hide_rank=true&amp&theme=tokyonight&amp&show_icons=true&amp&hide_border=false&amp&count_private=true" height=200 alt="github stats" ></picture>
+  <picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystodan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=false&amp;layout=compact"  height=200 alt="github top languages"></picture>
+  <picture><img src="https://github-readme-streak-stats.herokuapp.com/?user=mystodan&amp;theme=tokyonight&amp;hide_border=false" alt="github streak"></picture>
+  
+  </div>
+
+
+
+
+
+<!--
+[![](https://github-readme-stats.vercel.app/api?username=mystodan&hide_rank=true&amp&theme=tokyonight&amp&show_icons=true&amp&hide_border=false&amp&count_private=true)](#)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mystodan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=false&amp;layout=compact)](#)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mystodan&amp;theme=tokyonight&amp;hide_border=false)](#)
+<img style="pointer-events:none;" src="https://github-readme-stats.vercel.app/api?username=mystodan&hide_rank=true&amp&theme=tokyonight&amp&show_icons=true&amp&hide_border=false&amp&count_private=true" height=200 alt="github stats">
+<img style="pointer-events:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystodan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=false&amp;layout=compact"  height=200 alt="github top languages">
+<img style="pointer-events:none;" src="https://github-readme-streak-stats.herokuapp.com/?user=mystodan&amp;theme=tokyonight&amp;hide_border=false" alt="github streak">
+-->
+  
+
 <br><br><br>
 
 
