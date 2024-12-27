@@ -11,26 +11,26 @@ Passionate about a sustainable future with technology, innovation, and problem-s
 
 
 
-  <div  align="center">
-  <picture><img src="https://github-readme-stats.vercel.app/api?username=mystodan&hide_rank=true&amp&theme=tokyonight&amp&show_icons=true&amp&hide_border=false&amp&count_private=true" height=200 alt="github stats" ></picture>
-  <picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystodan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=false&amp;layout=compact"  height=200 alt="github top languages"></picture>
-  <picture><img src="https://github-readme-streak-stats.herokuapp.com/?user=mystodan&amp;theme=tokyonight&amp;hide_border=false" alt="github streak"></picture>
-  
+  <div align="center" >
+  <picture><img 
+             height=200
+             draggable="false" 
+             src="https://github-readme-stats.vercel.app/api?username=mystodan&hide_rank=true&amp&theme=tokyonight&amp&show_icons=true&amp&hide_border=false&amp&count_private=true"
+             >
+  </picture>
+  <picture><img 
+             height=200
+             draggable="false" 
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystodan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=false&amp;layout=compact"
+             >
+  </picture>
+  <picture><img 
+             draggable="false" 
+             src="https://github-readme-streak-stats.herokuapp.com/?user=mystodan&amp;theme=tokyonight&amp;hide_border=false"
+             >
+  </picture>
   </div>
 
-
-
-
-
-<!--
-[![](https://github-readme-stats.vercel.app/api?username=mystodan&hide_rank=true&amp&theme=tokyonight&amp&show_icons=true&amp&hide_border=false&amp&count_private=true)](#)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mystodan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=false&amp;layout=compact)](#)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mystodan&amp;theme=tokyonight&amp;hide_border=false)](#)
-<img style="pointer-events:none;" src="https://github-readme-stats.vercel.app/api?username=mystodan&hide_rank=true&amp&theme=tokyonight&amp&show_icons=true&amp&hide_border=false&amp&count_private=true" height=200 alt="github stats">
-<img style="pointer-events:none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystodan&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=false&amp;layout=compact"  height=200 alt="github top languages">
-<img style="pointer-events:none;" src="https://github-readme-streak-stats.herokuapp.com/?user=mystodan&amp;theme=tokyonight&amp;hide_border=false" alt="github streak">
--->
-  
 
 <br><br><br>
 
