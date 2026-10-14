@@ -57,6 +57,8 @@ NTNU | 2020 – 2023
 
 ## 💼 Work Experience
 
+- Security Leader, Norwegian Armed Forces Cyber Defence | September 2026
+  
 - Software Engineer, Fish Detection in underwater videos (NINA) | January 2023 – June 2023
   Worked in a team to develop an application to detect unnecessary lengths of videos to remove for data analysis
 
