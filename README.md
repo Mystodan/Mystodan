@@ -1,7 +1,7 @@
 ## Hey there, Welcome to my GitHub page 👋
 
 👩‍💻 Programmer | Problem Solver
-📍 Based in Sandefjord, Norway | 📧 daniel.hao.huynh@gmail.com | 
+📍 Based in Bærum, Norway | 📧 daniel.hao.huynh@gmail.com | 
 
 ## 🎯 About Me
 
